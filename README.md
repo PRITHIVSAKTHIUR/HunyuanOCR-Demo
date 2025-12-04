@@ -2,6 +2,8 @@
 
 A Gradio-based demonstration application for the Tencent HunyuanOCR model, focused on optical character recognition (OCR) tasks such as text detection, extraction, and coordinate formatting from images. Users can upload images, customize prompts (e.g., for Chinese/English text), and generate structured outputs with advanced generation controls.
 
+<img width="1918" height="695" alt="Screenshot 2025-12-04 at 13-49-47 Super OCRs Demo - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/ca673af0-8858-4cfa-a267-ace08d8fea3b" />
+
 ## Features
 
 - **Image Upload and Processing**: Supports direct upload or clipboard paste; processes images via PIL for text recognition.
