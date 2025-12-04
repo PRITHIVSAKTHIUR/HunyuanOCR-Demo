@@ -3,6 +3,7 @@ git+https://github.com/huggingface/accelerate.git
 git+https://github.com/huggingface/diffusers.git
 git+https://github.com/huggingface/peft.git
 huggingface_hub
+gradio==6.0.1
 qwen-vl-utils
 sentencepiece
 opencv-python
@@ -11,9 +12,7 @@ supervision
 matplotlib
 easydict
 kernels
-gradio==6.0.1
 einops
-spaces
 addict
 hf_xet
 torch
