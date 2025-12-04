@@ -33,29 +33,28 @@ A Gradio-based demonstration application for the Tencent HunyuanOCR model, focus
    ```
    pip install -r requirements.txt
    ```
-
    **requirements.txt content:**
    ```
-git+https://github.com/huggingface/transformers@82a06db03535c49aa987719ed0746a76093b1ec4
-git+https://github.com/huggingface/accelerate.git
-git+https://github.com/huggingface/diffusers.git
-git+https://github.com/huggingface/peft.git
-huggingface_hub
-gradio==6.0.1
-qwen-vl-utils
-sentencepiece
-opencv-python
-torchvision
-supervision
-matplotlib
-easydict
-kernels
-einops
-addict
-hf_xet
-torch
-numpy
-av
+   git+https://github.com/huggingface/transformers@82a06db03535c49aa987719ed0746a76093b1ec4
+   git+https://github.com/huggingface/accelerate.git
+   git+https://github.com/huggingface/diffusers.git
+   git+https://github.com/huggingface/peft.git
+   huggingface_hub
+   gradio==6.0.1
+   qwen-vl-utils
+   sentencepiece
+   opencv-python
+   torchvision
+   supervision
+   matplotlib
+   easydict
+   kernels
+   einops
+   addict
+   hf_xet
+   torch
+   numpy
+   av
    ```
 
 3. Start the application:
