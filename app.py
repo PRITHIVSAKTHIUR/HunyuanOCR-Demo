@@ -226,4 +226,4 @@ with gr.Blocks() as demo:
     )
 
 if __name__ == "__main__":
-    demo.queue(max_size=10).launch(css=css, theme=steel_blue_theme, ssr_mode=False, show_error=True)
+    demo.queue(max_size=10).launch(css=css, theme=steel_blue_theme, ssr_mode=False, show_error=True, share=True)
